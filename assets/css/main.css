@@ -2070,13 +2070,13 @@ body {
 }
 
 .main.style2 {
-  -moz-align-items: center;
-  -webkit-align-items: center;
-  -ms-align-items: center;
-  align-items: center;
-  -moz-justify-content: center;
-  -webkit-justify-content: center;
-  -ms-justify-content: center;
+  -moz-align-items: space-between;
+  -webkit-align-items: space-between;
+  -ms-align-items: space-between;
+  align-items: space-between;
+  -moz-justify-content: space-between;
+  -webkit-justify-content: space-between;
+  -ms-justify-content: space-between;
   justify-content: space-between;
   padding: 3em 0 3em 0;
   overflow: hidden;
