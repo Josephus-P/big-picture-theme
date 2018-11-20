@@ -2070,10 +2070,10 @@ body {
 }
 
 .main.style2 {
-  -moz-align-items: space-between;
-  -webkit-align-items: space-between;
-  -ms-align-items: space-between;
-  align-items: space-between;
+  -moz-align-items: center;
+  -webkit-align-items: center;
+  -ms-align-items: center;
+  align-items: center;
   -moz-justify-content: space-between;
   -webkit-justify-content: space-between;
   -ms-justify-content: space-between;
